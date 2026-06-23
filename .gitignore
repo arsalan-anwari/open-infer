@@ -20,3 +20,5 @@ docs/sphinx/_static/css/rustdoc.css
 docs/sphinx/_static/rustdoc_header.html
 docs/sphinx/_static/images/OpenInferIcon.png
 docs/sphinx/_static/images/OpenInferFavIcon.png
+
+.metadata_cache/
